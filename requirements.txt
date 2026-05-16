@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+requests
+beautifulsoup4
+playwright
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+google-generativeai
+httpx
+openai
