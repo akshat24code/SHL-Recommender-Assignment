@@ -452,12 +452,6 @@ This project was built with production reliability and evaluation robustness in 
 
 ---
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
----
-
 ## 🙏 Acknowledgments
 
 - **SHL** for the assessment catalog
